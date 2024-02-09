@@ -1,0 +1,81 @@
+@media screen and (max-width:700px){
+    body{
+        background-color: rgb(0, 255, 8);
+        
+    }
+    
+}
+@media screen and (max-width:650px){
+    body{
+        background-color: aqua;
+    }
+    
+}
+@media screen and (max-width:550px){
+    body{
+     background-color: rgb(37, 10, 125);
+    }
+    
+}
+@media screen and (max-width:450px){
+    body{
+        background-color: rgb(34, 80, 80);
+    }
+    
+}
+@media screen and (max-width:250px){
+    body{
+        background-color: rgb(193, 220, 14);
+    }
+
+body{
+    background-color: lightblue;
+}
+.weather{
+    background-image: url('https://media.tenor.com/r0F3-kMPAtwAAAAd/moving-clouds-world-meteorological-day.gif');
+    height:500px;
+    width: 100%;
+    background-repeat:repeat;
+    background-size: 100% 100%;
+    padding: 5%;
+    
+}               
+.box{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    margin-left: 40%;
+    transition: all 5s;
+    justify-content: center;
+}
+.box h2{
+    color:rgb(244, 242, 245);
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: 300%;
+    text-align: center;
+    
+    
+   
+}
+.box div{
+    color:rgb(227, 230, 18);
+    font-size:50px;
+    
+}
+.navbar{
+   background:rgb(45,79,150);
+}
+.row1{
+    color: aliceblue;
+}
+.row1 p{
+    text-align: center;
+    font-weight: 900;
+  
+    padding-bottom: 0;
+    font-size: 20px;
+    margin-top: 20px;
+    
+}
